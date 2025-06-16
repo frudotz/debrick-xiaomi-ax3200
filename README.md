@@ -15,12 +15,14 @@ Cihazınız boot olmuyorsa veya stock yazılıma geri dönmek istiyorsanız aşa
     <li>
       <a href="#-başlarken">✨ Başlarken</a>
       <ul>
+        <li><a href="#-gereksinimler">📦 Gereksinimler</a></li>
+        <li><a href="#-kuruluma-hazırlık">🪄 Kuruluma Hazırlık</a></li>
         <li><a href="#-kurtarma-moduna-girme">🚨 Kurtarma Moduna Girme</a></li>
         <li><a href="#%EF%B8%8F-tiny-pxe-server-ayarları">🖥️ Tiny PXE Server Ayarları</a></li>
       </ul>
     </li>
     <li>
-      <a href="#-debrickstock-yazılıma-dönme">🔃 Debrick/Stock Yazılıma Dönme</a>
+      <a href="#-debrickstock-yazılıma-dönme---i̇ndir">🔃 Debrick/Stock Yazılıma Dönme - </a><a href="https://github.com/frudotz/debrick-xiaomi-ax3200/releases/download/StockYaz%C4%B1l%C4%B1mDebrick/ax3200-mt7622b-stock-debrick.zip">İndir</a>
       <ul>
         <li><a href="#-flashlama-i̇şlemi">⚡ Flashlama İşlemi</a></li>
         <li><a href="#-i̇şlem-sonrası">✅ İşlem Sonrası</a></li>
@@ -36,6 +38,23 @@ Cihazınız boot olmuyorsa veya stock yazılıma geri dönmek istiyorsanız aşa
 </details>
 
 # ✨ Başlarken
+
+### ⚙️ Cihaz Özellikleri
+- CPU: 1350 Mhz MediaTek MT7622B
+- RAM: 256 MB
+- FLASH: 128 MB
+- 2.4 GHz: MediaTek MT7622B
+- 5 GHz: MediaTek MT7915E
+- Ethernet: 4x1000 Mbps LAN/WAN
+
+### 📦 Gereksinimler
+
+- MiWifi Stock Yazılımı - ([Global](http://cdn.awsde0-fusion.fds.api.mi-img.com/xiaoqiang/rom/rb01/miwifi_rb01_firmware_bbc77_1.0.71_INT.bin) - [Çin](https://cdn.cnbj1.fds.api.mi-img.com/xiaoqiang/rom/rb03/miwifi_rb03_firmware_83db5_1.0.57.bin)) - (Releases dosyasında mevcut)
+- TinyPXE ([Releases](https://github.com/frudotz/openwrt-xiaomi-ax3200/releases/download/OpenWRTKurulum/ax3200-mt7622b-openwrt-kurulum.zip) dosyasında)  
+
+## 📥 Kurulum dosyalarını [indirmek için tıklayın.](https://github.com/frudotz/openwrt-xiaomi-ax3200/releases/download/OpenWRTKurulum/ax3200-mt7622b-openwrt-kurulum.zip)  
+
+### 🪄 Kuruluma Hazırlık
 
 - Gerekli kurulum dosyalarını indirin ve uygun bir dizine çıkartın.  
 - Windows üzerinde **Denetim Masası > Ağ ve İnternet > Ağ Bağlantıları** yolunu izleyin.
@@ -71,7 +90,7 @@ Cihazınız boot olmuyorsa veya stock yazılıma geri dönmek istiyorsanız aşa
   <img width="auto" height="512" src="https://github.com/frudotz/debrick-xiaomi-ax3200/blob/main/IMGs/2.png">
 </p>
 
-# 🔃 Debrick/Stock Yazılıma Dönme
+# 🔃 Debrick/Stock Yazılıma Dönme - [İndir](https://github.com/frudotz/debrick-xiaomi-ax3200/releases/download/StockYaz%C4%B1l%C4%B1mDebrick/ax3200-mt7622b-stock-debrick.zip)
 
 ### ⚡ Flashlama İşlemi
 
