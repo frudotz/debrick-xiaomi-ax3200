@@ -1,7 +1,7 @@
 # Xiaomi AX3200 için Debrick/Yazılım Kurtarma Rehberi
 
-Bu rehberimizde Xiaomi AX3200 cihazınızı stock firmware'e döndürmeniz (debrick) için gereken adımlar yer almaktadır.  
-Cihazınız boot olmuyorsa veya stock yazılıma geri dönmek istiyorsanız aşağıdaki yönergeleri takip edebilirsiniz.
+Bu rehberimizde Xiaomi AX3200 cihazınızı stock firmware'e döndürmek (debrick) için gereken adımlar yer almaktadır.  
+Cihazınız boot olmuyorsa veya stock yazılıma geri dönmek istiyorsanız aşağıdaki yönergeleri takip edebilirsiniz.  
 *Yazılım değişiklikleri cihazı garanti dışı bırakabilir, oluşabilecek tüm komplikasyonlar sizin sorumluluğunuzdadır.*  
 *Konu ile ilgili hiçbir sorumluluk kabul etmiyoruz. Rehberimizi kaynak göstererek paylaşmanız önemle rica olunur.* 🙏
 
