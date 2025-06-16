@@ -16,7 +16,7 @@ Cihazınız boot olmuyorsa veya stock yazılıma geri dönmek istiyorsanız aşa
       <a href="#-başlarken">✨ Başlarken</a>
       <ul>
         <li><a href="#-kurtarma-moduna-girme">🚨 Kurtarma Moduna Girme</a></li>
-        <li><a href="%EF%B8%8F-tiny-pxe-server-ayarlar%C4%B1">🖥️ Tiny PXE Server Ayarları</a></li>
+        <li><a href="%EF%B8%8F-tiny-pxe-server-ayarları">🖥️ Tiny PXE Server Ayarları</a></li>
       </ul>
     </li>
     <li>
