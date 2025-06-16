@@ -38,12 +38,16 @@ Cihazınız boot olmuyorsa veya stock yazılıma geri dönmek istiyorsanız aşa
 # ✨ Başlarken
 
 - Gerekli kurulum dosyalarını indirin ve uygun bir dizine çıkartın.  
-- Windows üzerinde **Denetim Masası > Ağ ve İnternet > Ağ Bağlantıları** yolunu izleyin.  
-  - Ethernet adaptörünüzün **IPv4 ayarlarını** aşağıdaki gibi yapılandırın:  
+- Windows üzerinde **Denetim Masası > Ağ ve İnternet > Ağ Bağlantıları** yolunu izleyin.
+    - Ethernet adaptörünüzün **IPv4 ayarlarını** aşağıdaki gibi yapılandırın:  
       - IP adresi: `192.168.1.100`  
       - Alt ağ maskesi: `255.255.255.0`  
       - Varsayılan ağ geçidi: `Boş Bırakın`  
-- Cihazı LAN portu üzerinden bilgisayarınıza bağlayın.  
+- Cihazı LAN portu üzerinden bilgisayarınıza bağlayın.
+
+<p align="left">
+  <img width="auto" height="147" src="https://github.com/frudotz/debrick-xiaomi-ax3200/blob/main/IMGs/1.png">
+</p>
 
 ### 🚨 Kurtarma Moduna Girme
 
@@ -63,12 +67,18 @@ Cihazınız boot olmuyorsa veya stock yazılıma geri dönmek istiyorsanız aşa
       - Altındaki tikli seçeneğin tikini kaldırın.
 - Sağ üstten `Online` butonuna tıklayın.
 
+<p align="left">
+  <img width="auto" height="147" src="https://github.com/frudotz/debrick-xiaomi-ax3200/blob/main/IMGs/2.png">
+</p>
+
 # 🔃 Debrick/Stock Yazılıma Dönme
 
 ### ⚡ Flashlama İşlemi
 
 - Başarılı bir bağlantıdan sonra log ekranında şu tür bir kayıt görünecektir:
-
+<p align="left">
+  <img width="auto" height="147" src="https://github.com/frudotz/debrick-xiaomi-ax3200/blob/main/IMGs/3.png">
+</p>
 - Kısa bir süre içinde cihazın LED'i **mavi renkte yanıp sönmeye** başlayacaktır.
 - Bu noktada cihazı güçten kesip yeniden başlattığınızda **MiWifi kurulum arayüzü** açılacaktır.
 
@@ -87,6 +97,10 @@ Cihazınız boot olmuyorsa veya stock yazılıma geri dönmek istiyorsanız aşa
     - Cihazı güçten kesip yeniden reset tuşuna basılı tutarak başlatmayı deneyin.
 
 - **Hatalı işlem sonucu aşağıdaki gibi bir hata alırsanız işlemlere baştan başlayın:**
+
+<p align="left">
+  <img width="auto" height="147" src="https://github.com/frudotz/debrick-xiaomi-ax3200/blob/main/IMGs/4.png">
+</p>
 
 # 🗃️ Kaynaklar
   - [Blog: @yucellmustafa/mi4a-gigabit-debrick](https://blog.yucellmustafa.com.tr/2023/05/27/mi4a-gigabit-debrick)
