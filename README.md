@@ -46,7 +46,7 @@ Cihazınız boot olmuyorsa veya stock yazılıma geri dönmek istiyorsanız aşa
 - Cihazı LAN portu üzerinden bilgisayarınıza bağlayın.
 
 <p align="left">
-  <img width="auto" height="147" src="https://github.com/frudotz/debrick-xiaomi-ax3200/blob/main/IMGs/1.png">
+  <img width="auto" height="490" src="https://github.com/frudotz/debrick-xiaomi-ax3200/blob/main/IMGs/1.png">
 </p>
 
 ### 🚨 Kurtarma Moduna Girme
@@ -68,7 +68,7 @@ Cihazınız boot olmuyorsa veya stock yazılıma geri dönmek istiyorsanız aşa
 - Sağ üstten `Online` butonuna tıklayın.
 
 <p align="left">
-  <img width="auto" height="147" src="https://github.com/frudotz/debrick-xiaomi-ax3200/blob/main/IMGs/2.png">
+  <img width="auto" height="512" src="https://github.com/frudotz/debrick-xiaomi-ax3200/blob/main/IMGs/2.png">
 </p>
 
 # 🔃 Debrick/Stock Yazılıma Dönme
@@ -77,7 +77,7 @@ Cihazınız boot olmuyorsa veya stock yazılıma geri dönmek istiyorsanız aşa
 
 - Başarılı bir bağlantıdan sonra log ekranında şu tür bir kayıt görünecektir:
 <p align="left">
-  <img width="auto" height="147" src="https://github.com/frudotz/debrick-xiaomi-ax3200/blob/main/IMGs/3.png">
+  <img width="auto" height="512" src="https://github.com/frudotz/debrick-xiaomi-ax3200/blob/main/IMGs/3.png">
 </p>
 - Kısa bir süre içinde cihazın LED'i **mavi renkte yanıp sönmeye** başlayacaktır.
 - Bu noktada cihazı güçten kesip yeniden başlattığınızda **MiWifi kurulum arayüzü** açılacaktır.
@@ -99,7 +99,7 @@ Cihazınız boot olmuyorsa veya stock yazılıma geri dönmek istiyorsanız aşa
 - **Hatalı işlem sonucu aşağıdaki gibi bir hata alırsanız işlemlere baştan başlayın:**
 
 <p align="left">
-  <img width="auto" height="147" src="https://github.com/frudotz/debrick-xiaomi-ax3200/blob/main/IMGs/4.png">
+  <img width="auto" height="512" src="https://github.com/frudotz/debrick-xiaomi-ax3200/blob/main/IMGs/4.png">
 </p>
 
 # 🗃️ Kaynaklar
