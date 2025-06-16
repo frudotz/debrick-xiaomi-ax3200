@@ -76,10 +76,12 @@ Cihazınız boot olmuyorsa veya stock yazılıma geri dönmek istiyorsanız aşa
 ### ⚡ Flashlama İşlemi
 
 - Başarılı bir bağlantıdan sonra log ekranında şu tür bir kayıt görünecektir:
+
 <p align="left">
   <img width="auto" height="512" src="https://github.com/frudotz/debrick-xiaomi-ax3200/blob/main/IMGs/3.png">
 </p>
-- Kısa bir süre içinde cihazın LED'i **mavi renkte yanıp sönmeye** başlayacaktır.
+
+- Kısa bir süre içinde cihazın LED'i **mavi renkte yanıp sönmeye** başlayacaktır.  
 - Bu noktada cihazı güçten kesip yeniden başlattığınızda **MiWifi kurulum arayüzü** açılacaktır.
 
 ### ✅ İşlem Sonrası
