@@ -32,6 +32,9 @@ Cihazınız boot olmuyorsa veya stock yazılıma geri dönmek istiyorsanız aşa
       <a href="#-sorun-giderme">🫠 Sorun Giderme</a>
     </li>
     <li>
+      <a href="#-katkıda-bulun--bağış">🤝 Katkıda Bulun / Bağış</a>
+    </li>
+    <li>
       <a href="#%EF%B8%8F-kaynaklar">🗃️ Kaynaklar</a>
     </li>
   </ol>
@@ -122,6 +125,10 @@ Cihazınız boot olmuyorsa veya stock yazılıma geri dönmek istiyorsanız aşa
 <p align="left">
   <img width="auto" height="512" src="https://github.com/frudotz/debrick-xiaomi-ax3200/blob/main/IMGs/4.png">
 </p>
+
+# 🤝 Katkıda Bulun / Bağış
+  - Yanlış gördüğünüz veya eklemek istediğiniz şeyleri PR/Issue açarak iletebilirsiniz.  
+  - Rehberimizi faydalı bulduysanız [🍻 bir bira ısmarlayarak](https://coff.ee/frudotz) bana destek olabilirsiniz.
 
 # 🗃️ Kaynaklar
   - [Blog: @yucellmustafa/mi4a-gigabit-debrick](https://blog.yucellmustafa.com.tr/2023/05/27/mi4a-gigabit-debrick)
